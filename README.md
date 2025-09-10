@@ -1,7 +1,3 @@
-# MNIST-CNN-
-just A small program
-
-
 # MNIST 手写数字识别 - 卷积神经网络实现
 
 这是一个使用PyTorch实现的卷积神经网络(CNN)，用于识别MNIST手写数字数据集。
